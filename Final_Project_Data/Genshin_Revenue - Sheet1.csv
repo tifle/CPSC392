@@ -1,57 +1,57 @@
-version,version_name,start_date,end_date,5_star_character_1,days_since_last_banner_1,rerun_number_1,weapon_1,5_star_character_2,days_since_last_banner_2,rerun_number_2,weapon_2,rerun,mixed,revenue,banner_days,avg_revenue
-1.0,Welcome to Tevyat,9/25/2020,10/19/2020,Venti,0,0,Aquila Favonia,,,,Amos' Bow,N,N,"30,632,752",25,"1,225,310.08"
-1.0,Welcome to Tevyat,10/20/2020,11/10/2020,Klee,0,0,Lost Prayer to The Sacred Winds,,,,Wolf's Gravestone,N,N,"22,750,080",22,"1,034,094.55"
-1.1,A New Star Approaches,11/11/2020,11/30/2020,Tartaglia,0,0,Skyward Harp,,,,Memory of Dust,N,N,"13,443,619",20,"672,180.95"
-1.1,A New Star Approaches,12/1/2020,12/22/2020,Zhongli,0,0,The Unforged,,,,Vortex Vanquisher,N,N,"16,264,892",22,"739,313.27"
-1.2,The Chalk Prince and the Dragon,12/23/2020,12/1/2020,Albedo,0,0,Summit Shaper,,,,Skyward Atlas,N,N,"11,816,107",21,"562,671.76"
-1.2,The Chalk Prince and the Dragon,1/13/2021,2/2/2021,Ganyu,0,0,Amos' Bow,,,,Skyward Pride,N,N,"15,669,918",21,"746,186.57"
-1.3,All That Glitters,2/3/2021,2/17/2021,Xiao,0,0,Primordial Jade Cutter,,,,Primordial Jade Winged-Spear,N,N,"13,145,115",15,"876,341.00"
-1.3,All That Glitters,2/18/2021,3/2/2021,Keqing,0,0,Primordial Jade Cutter,,,,Primordial Jade Winged-Spear,N,N,"9,505,798",13,"731,215.23"
-1.3,All That Glitters,3/3/2021,3/16/2021,Hu Tao,0,0,Staff of Homa,,,,Wolf's Gravestone,N,N,"12,481,634",14,"891,545.29"
-1.4,Invitation to Windblume,3/17/2021,4/6/2021,Venti,149,1,Elegy for the End,,,,Skyward Harp,Y,N,"16,614,209",21,"791,152.81"
-1.4,Invitation to Windblume,4/7/2021,4/27/2021,Tartaglia,128,1,Skyward Harp,,,,Lost Prayer to The Sacred Winds,Y,N,"6,965,445",21,"331,687.86"
-1.5,Beneath the Light of Jadeite,4/28/2021,5/18/2021,Zhongli,127,1,Summit Shaper,,,,Memory of Dust,Y,N,"10,215,165",21,"486,436.43"
-1.5,Beneath the Light of Jadeite,5/19/2021,8/6/2021,Eula,0,0,Song of Broken Pipes,,,,Aquila Favonia,N,N,"12,619,390",21,"600,923.33"
-1.6,Midsummer Island Adventure,6/9/2021,6/29/2021,Klee,211,1,Lost Prayer to The Sacred Winds,,,,Skyward Pride,Y,N,"7,006,180",21,"333,627.62"
-1.6,Midsummer Island Adventure,6/30/2021,7/20/2021,Kaedehara Kazuha,0,0,Freedom Sworn,,,,Skyward Atlas,N,N,"9,807,112",21,"467,005.33"
-2.0,Immovable God and the Eternal Euthymia,7/21/2021,8/10/2021,Kamisato Ayaka,0,0,Mistplitter Reforged,,,,Skyward Spine,N,N,"16,451,006",21,"783,381.24"
-2.0,Immovable God and the Eternal Euthymia,8/11/2021,8/31/2021,Yoimiya,0,0,Thundering Pulse,,,,Skyward Blade,N,N,"8,615,144",21,"410,244.95"
-2.1,Floating World Under the Moonlight,9/1/2021,9/20/2021,Raiden Shogun,0,0,Engulfing Lightning,,,,The Unforged,N,N,"33,020,905",20,"1,651,045.25"
-2.1,Floating World Under the Moonlight,9/21/2021,10/12/2021,Sangonomiya Kokomi,0,0,Everlasting Moonglow,,,,Primordial Jade Cutter,N,N,"7,020,975",22,"319,135.23"
-2.2,Into the Perilous Labyrinth of Fog,10/13/2021,11/2/2021,Tartaglia,169,2,Polar Star,,,,Memory of Dust,Y,N,"7,785,438",21,"370,735.14"
-2.2,Into the Perilous Labyrinth of Fog,11/2/2021,11/23/2021,Hu Tao,231,1,Staff of Homa,,,,Elergy for the End,Y,N,"25,226,952",22,"1,146,679.64"
-2.3,Shadows Amidst Snowstorms,11/24/2021,12/14/2021,Albedo,358,1,Freedom Sworn,Eula,110,1,Song of Broken Pipes,Y,Y,"17,026,066",21,"810,765.05"
-2.3,Shadows Amidst Snowstorms,12/14/2021,1/4/2022,Arataki Itto,0,0,Redhorn Stonethresher's,,,,Skyward Harp,N,N,"13,404,072",22,"609,276.00"
-2.4,Fleeting Colors in Flight,1/5/2022,1/25/2022,Shenhe,0,0,Calamity Queller,Xiao,322,1,Primordial Jade Winged-Spear,Y,Y,"16,994,406",21,"809,257.43"
-2.4,Fleeting Colors in Flight,1/25/2022,2/15/2022,Ganyu,357,1,Amos' Bow,Zhongli,252,2,Vortex Vanquisher,Y,Y,"26,780,298",22,"1,217,286.27"
-2.5,When the Sakura Bloom,2/16/2022,3/8/2022,Yae Miko,0,0,Kagura's Verity,,,,Primordial Jade Cutter,N,N,"15,110,264",21,"719,536.38"
-2.5,When the Sakura Bloom,3/8/2022,3/29/2022,Raiden Shogun,169,0,Engulfing Lightning,Sangonomiya Kokomi,147,1,Everlasting Moonlight,Y,Y,"33,560,259",22,"1,525,466.32"
-2.6,Zephyr of the Violet Garden,3/30/2022,4/19/2022,Kamisato Ayato,0,0,Haran Geppaku Futsu,Venti,358,2,Elergy for the End,Y,Y,"22,767,455",21,"1,084,164.52"
-2.6,Zephyr of the Violet Garden,4/19/2022,5/31/2022,Kamisato Ayaka,252,1,Mistplitter Reforged,,,,The Unforged,Y,N,"35,939,066",43,"835,792.23"
-2.7,Hidden Dreams in the Depths,5/31/2022,6/21/2022,Yelan,0,0,Aqua Simulacra,Xiao,126,2,Primordial Jade Winged-Spear,Y,Y,"32,177,144",22,"1,462,597.45"
-2.7,Hidden Dreams in the Depths,6/21/2022,7/12/2022,Arataki Itto,168,1,Redhorn Stonethresher's,,,,Memory of Dust,Y,N,"12,586,764",22,"572,125.64"
-2.8,Summer Fantasia,7/13/2022,8/2/2022,Kaedehara Kazuha,358,1,Freedom Sworn,Klee,379,2,Lost Prayer to The Sacred Winds,Y,Y,"24,808,479",21,"1,181,356.14"
-2.8,Summer Fantasia,8/2/2022,8/23/2022,Yoimiya,336,1,Thundering Pulse,,,,Summit Shaper,Y,N,"14,333,266",22,"651,512.09"
-3.0,The Morn a Thousand Roses Brings,8/23/2022,9/9/2022,Tighnari,0,0,Hunter's Path,Zhongli,189,3,Vortex Vanquisher,Y,Y,"19,068,372",18,"1,059,354.00"
-3.0,The Morn a Thousand Roses Brings,9/9/2022,9/27/2022,Ganyu,206,2,Amos' Bow,Sangonomiya Kokomi,164,2,Everlasting Moonlight,Y,Y,"15,681,840",19,"825,360.00"
-3.1,King Deshret and the Three Magi,9/27/2022,10/14/2022,Cyno,0,0,Staff of the Scarlet Sands,Venti,161,3,Elergy for the End,Y,Y,"19,052,023",18,"1,058,445.72"
-3.1,King Deshret and the Three Magi,10/14/2022,11/1/2022,Nilou,0,0,Key of Khaj-Nisut,Albedo,304,2,Primordial Jade Cutter,Y,Y,"15,731,680.00",19,"827,983.16"
-3.2,"Akasha Pulses, the Kalpa Flame Rises",11/1/2022,11/15/2022,Nahida,0,0,A Thousand Floating Dreams,Yoimiya,70,2,Thundering Pulse,Y,Y,"34,017,290.00",15,"2,140,129.53"
-3.2,"Akasha Pulses, the Kalpa Flame Rises",11/15/2022,12/6/2022,Yae Miko,252,1,Kagura's Verity,Tartaglia,378,3,Polar Star,Y,Y,"18,437,409.00",21,877971.8571
-3.3,"All Senses Clear, All Existence Void",12/7/2022,12/27/2022,Wanderer,0,0,Tulaytullah's Remembrance,Arataki Itto,148,2,Redhorn Stonethresher's,Y,Y,"27,126,505.00",20,1356325.25
-3.3,"All Senses Clear, All Existence Void",12/27/2022,1/17/2023,Raiden Shogun,273,1,Engulfing Lightning,Kamisato Ayato,252,1,Haran Geppaku Futsu,Y,Y,"37,919,130.00",21,1805672.857
-3.4,The Exquisite Night Chimes,1/18/2023,2/7/2023,Alhaitham,0,0,Light of Foliar Incision,Xiao,211,3,Primordial Jade Winged-Spear,Y,Y,"18,361,860.00",20,918093
-3.4,The Exquisite Night Chimes,2/7/2023,2/28/2023,Hu Tao,441,2,Staff of Homa,Yelan,231,1,Aqua Simulacra,Y,Y,"46,556,153.00",21,2216959.667
-3.5,Windblume's Breath,3/1/2023,3/21/2023,Dehya,0,0,Beacon of the Reed Sea,Cyno,138,1,Staff of the Scarlet Sands,Y,Y,"13,198,046.00",20,659902.3
-3.5,Windblume's Breath,3/21/2023,4/11/2023,Kamisato Ayaka,294,2,Mistsplitter Reforged,Shenhe,420,1,Calamity Queller,Y,Y,"35,962,024.00",21,1712477.333
-3.6,A Parade of Providence,4/12/2023,5/2/2023,Nahida,148,1,A Thousand Floating Dreams,Nilou,162,1,Key of Khaj-Nisut,Y,Y,"28,019,235.00",20,1400961.75
-3.6,A Parade of Providence,5/2/2023,5/23/2023,Baizhu,0,0,Jadefall's Splendor,Ganyu,217,3,Amos' Bow,Y,Y,"9,108,580.00",21,433741.9048
-3.7,Duell The Summoners' Summitl,5/24/2023,6/13/2023,Yoimiya,190,3,Thundering Pulse,Yae Miko,169,2,Kagura's Verity,Y,Y,"9,154,188.00",20,457709.4
-3.7,Duell The Summoners' Summitl,6/13/2023,7/5/2023,Kaedehara Kazuha,315,2,Freedom Sworn,Alhaitham,126,1,Light of Foliar Incision,Y,Y,"17,459,928.00",22,793633.0909
-3.8,Secret Summer Paradise,7/5/2023,7/25/2023,Eula,568,2,Song of Broken Pipes,Klee,337,3,Lost Prayer to the Sacred Winds,Y,Y,"6,458,188.00",20,322909.4
-3.8,Secret Summer Paradise,7/25/2023,8/15/2023,Sangonomiya Kokomi,301,3,Everlasting Moonglow,Wanderer,210,1,Tulaytullah's Remembrance,Y,Y,"9,129,631.00",21,434744.3333
-4.0,As Light Rain Falls Without Reason,8/16/2023,9/5/2023,Lyney,0,0,The First Great Magic,Yelan,169,2,Aqua Simulacra,Y,Y,"11,473,539.00",20,573676.95
-4.0,As Light Rain Falls Without Reason,9/5/2023,9/26/2023,Tartaglia,273,4,Polar Star,Zhongli,361,4,Vortex Vanquisher,Y,Y,"9,039,617.00",21,430457.9524
-4.1,To the Stars Shining in the Depths,9/27/2023,10/17/2023,Neuvillette,0,0,Tome of Eternal Flow,Hu Tao,211,3,Staff of Homa,Y,Y,"13,832,472.00",20,691623.6
-4.1,To the Stars Shining in the Depths,10/17/2023,11/8/2023,Wriothesley,0,0,Cashflow Supervision,Venti,368,4,Elegy for the End,Y,Y,"11,730,045.00",22,533183.8636
-4.2,Masquerade of the Guilty,11/8/2023,11/29/2023,Furina,0,0,Splendor of Tranquil Waters,Baizhu,169,1,Jadefall's Splendor,Y,Y,"27,811,922.00",21,1324377.238
+version,version_name,start_date,end_date,5_star_character_1,days_since_last_banner_1,rerun_number_1,weapon_1,5_star_character_2,days_since_last_banner_2,rerun_number_2,4_star_character_1,days_since_last_banner_4_1,rerun_number_4_1,4_star_character_2,days_since_last_banner_4_2,rerun_number_4_2,4_star_character_3,days_since_last_banner_4_3,rerun_number_4_3,weapon_2,rerun,mixed,revenue,banner_days,avg_revenue
+1.0,Welcome to Tevyat,9/25/2020,10/19/2020,Venti,0,0,Aquila Favonia,N/A,0,0,Barbara,0,0,Xiangling,0,0,Fischl,0,0,Amos' Bow,N,N,"30,632,752",25,"1,225,310.08"
+1.0,Welcome to Tevyat,10/20/2020,11/10/2020,Klee,0,0,Lost Prayer to The Sacred Winds,N/A,0,0,Noelle,0,0,Sucrose,0,0,Xingqui,0,0,Wolf's Gravestone,N,N,"22,750,080",22,"1,034,094.55"
+1.1,A New Star Approaches,11/11/2020,11/30/2020,Tartaglia,0,0,Skyward Harp,N/A,0,0,Beidou,0,0,Ninguang,0,0,Diona,0,0,Memory of Dust,N,N,"13,443,619",20,"672,180.95"
+1.1,A New Star Approaches,12/1/2020,12/22/2020,Zhongli,0,0,The Unforged,N/A,0,0,Chongyun,0,0,Razor,0,0,Xinyan,0,0,Vortex Vanquisher,N,N,"16,264,892",22,"739,313.27"
+1.2,The Chalk Prince and the Dragon,12/23/2020,12/1/2020,Albedo,0,0,Summit Shaper,N/A,0,0,Bennett,0,0,Fischl,65,1,Sucrose,43,1,Skyward Atlas,N,N,"11,816,107",21,"562,671.76"
+1.2,The Chalk Prince and the Dragon,1/13/2021,2/2/2021,Ganyu,0,0,Amos' Bow,N/A,0,0,Noelle,64,1,Xiangling,86,1,Xingqui,64,1,Skyward Pride,N,N,"15,669,918",21,"746,186.57"
+1.3,All That Glitters,2/3/2021,2/17/2021,Xiao,0,0,Primordial Jade Cutter,N/A,0,0,Beidou,65,1,Diona,65,1,Xinyan,43,1,Primordial Jade Winged-Spear,N,N,"13,145,115",15,"876,341.00"
+1.3,All That Glitters,2/18/2021,3/2/2021,Keqing,0,0,Primordial Jade Cutter,N/A,0,0,Barbara,122,1,Bennett,79,1,Ninguang,80,1,Primordial Jade Winged-Spear,N,N,"9,505,798",13,"731,215.23"
+1.3,All That Glitters,3/3/2021,3/16/2021,Hu Tao,0,0,Staff of Homa,N/A,0,0,Chongyun,71,1,Xiangling,29,2,Xingqui,29,2,Wolf's Gravestone,N,N,"12,481,634",14,"891,545.29"
+1.4,Invitation to Windblume,3/17/2021,4/6/2021,Venti,149,1,Elegy for the End,N/A,0,0,Noelle,43,2,Razor,85,1,Sucrose,106,2,Skyward Harp,Y,N,"16,614,209",21,"791,152.81"
+1.4,Invitation to Windblume,4/7/2021,4/27/2021,Tartaglia,128,1,Skyward Harp,N/A,0,0,Rosaria,0,0,Barbara,36,2,Fischl,127,2,Lost Prayer to The Sacred Winds,Y,N,"6,965,445",21,"331,687.86"
+1.5,Beneath the Light of Jadeite,4/28/2021,5/18/2021,Zhongli,127,1,Summit Shaper,N/A,0,0,Yanfei,0,0,Diona,70,2,Noelle,22,3,Memory of Dust,Y,N,"10,215,165",21,"486,436.43"
+1.5,Beneath the Light of Jadeite,5/19/2021,6/8/2021,Eula,0,0,Song of Broken Pipes,N/A,0,0,Beidou,91,2,Xingqui,64,3,Xinyan,91,2,Aquila Favonia,N,N,"12,619,390",21,"600,923.33"
+1.6,Midsummer Island Adventure,6/9/2021,6/29/2021,Klee,211,1,Lost Prayer to The Sacred Winds,N/A,0,0,Barbara,43,3,Fischl,43,3,Sucrose,64,3,Skyward Pride,Y,N,"7,006,180",21,"333,627.62"
+1.6,Midsummer Island Adventure,6/30/2021,7/20/2021,Kaedehara Kazuha,0,0,Freedom Sworn,N/A,0,0,Bennett,120,2,Razor,85,2,Rosaria,64,1,Skyward Atlas,N,N,"9,807,112",21,"467,005.33"
+2.0,Immovable God and the Eternal Euthymia,7/21/2021,8/10/2021,Kamisato Ayaka,0,0,Mistplitter Reforged,N/A,0,0,Chongyun,127,2,Ninguang,141,2,Yanfei,64,1,Skyward Spine,N,N,"16,451,006",21,"783,381.24"
+2.0,Immovable God and the Eternal Euthymia,8/11/2021,8/31/2021,Yoimiya,0,0,Thundering Pulse,N/A,0,0,Sayu,0,0,Diona,85,3,Xinyan,64,3,Skyward Blade,N,N,"8,615,144",21,"410,244.95"
+2.1,Floating World Under the Moonlight,9/1/2021,9/20/2021,Raiden Shogun,0,0,Engulfing Lightning,N/A,0,0,Kujuo Sara,0,0,Sucrose,64,4,Xiangling,169,3,The Unforged,N,N,"33,020,905",20,"1,651,045.25"
+2.1,Floating World Under the Moonlight,9/21/2021,10/12/2021,Sangonomiya Kokomi,0,0,Everlasting Moonglow,N/A,0,0,Beidou,105,3,Rosaria,63,2,Xingqui,105,4,Primordial Jade Cutter,N,N,"7,020,975",22,"319,135.23"
+2.2,Into the Perilous Labyrinth of Fog,10/13/2021,11/2/2021,Tartaglia,169,2,Polar Star,N/A,0,0,Chongyun,64,3,Ninguang,64,3,Yanfei,64,2,Memory of Dust,Y,N,"7,785,438",21,"370,735.14"
+2.2,Into the Perilous Labyrinth of Fog,11/2/2021,11/23/2021,Hu Tao,231,1,Staff of Homa,N/A,0,0,Thoma,0,0,Sayu,63,1,Diona,63,4,Elergy for the End,Y,N,"25,226,952",22,"1,146,679.64"
+2.3,Shadows Amidst Snowstorms,11/24/2021,12/14/2021,Albedo,358,1,Freedom Sworn,Eula,169,1,Bennett,127,3,Rosaria,43,3,Noelle,190,4,Song of Broken Pipes,Y,Y,"17,026,066",21,"810,765.05"
+2.3,Shadows Amidst Snowstorms,12/14/2021,1/4/2022,Arataki Itto,0,0,Redhorn Stonethresher's,N/A,0,0,Gorou,0,0,Xiangling,85,4,Barbara,168,4,Skyward Harp,N,N,"13,404,072",22,"609,276.00"
+2.4,Fleeting Colors in Flight,1/5/2022,1/25/2022,Shenhe,0,0,Calamity Queller,Xiao,322,1,Chongyun,64,4,Ninguang,64,4,Yun Jin,0,0,Primordial Jade Winged-Spear,Y,Y,"16,994,406",21,"809,257.43"
+2.4,Fleeting Colors in Flight,1/25/2022,2/15/2022,Ganyu,357,1,Amos' Bow,Zhongli,252,2,Xingqui,105,5,Beidou,105,4,Yanfei,106,3,Vortex Vanquisher,Y,Y,"26,780,298",22,"1,217,286.27"
+2.5,When the Sakura Bloom,2/16/2022,3/8/2022,Yae Miko,0,0,Kagura's Verity,N/A,0,0,Thoma,85,1,Fischl,232,4,Diona,85,5,Primordial Jade Cutter,N,N,"15,110,264",21,"719,536.38"
+2.5,When the Sakura Bloom,3/8/2022,3/29/2022,Raiden Shogun,169,0,Engulfing Lightning,Sangonomiya Kokomi,147,1,Bennett,84,4,Xinyan,189,4,Kujuo Sara,169,1,Everlasting Moonlight,Y,Y,"33,560,259",22,"1,525,466.32"
+2.6,Zephyr of the Violet Garden,3/30/2022,4/19/2022,Kamisato Ayato,0,0,Haran Geppaku Futsu,Venti,358,2,Sucrose,191,5,Xiangling,85,5,Yun Jin,64,1,Elergy for the End,Y,Y,"22,767,455",21,"1,084,164.52"
+2.6,Zephyr of the Violet Garden,4/19/2022,5/31/2022,Kamisato Ayaka,252,1,Mistplitter Reforged,N/A,0,0,Rosaria,126,4,Razor,273,3,Sayu,147,2,The Unforged,Y,N,"35,939,066",43,"835,792.23"
+2.7,Hidden Dreams in the Depths,5/31/2022,6/21/2022,Yelan,0,0,Aqua Simulacra,Xiao,126,2,Yanfei,105,4,Barbara,147,5,Noelle,168,5,Primordial Jade Winged-Spear,Y,Y,"32,177,144",22,"1,462,597.45"
+2.7,Hidden Dreams in the Depths,6/21/2022,7/12/2022,Arataki Itto,168,1,Redhorn Stonethresher's,N/A,0,0,Kuki Shinobu,0,0,Gorou,168,1,Chongyun,147,5,Memory of Dust,Y,N,"12,586,764",22,"572,125.64"
+2.8,Summer Fantasia,7/13/2022,8/2/2022,Kaedehara Kazuha,358,1,Freedom Sworn,Klee,379,2,Heizou,0,0,Thoma,127,2,Ninguang,169,5,Lost Prayer to The Sacred Winds,Y,Y,"24,808,479",21,"1,181,356.14"
+2.8,Summer Fantasia,8/2/2022,8/23/2022,Yoimiya,336,1,Thundering Pulse,N/A,0,0,Yun Jin,105,2,Xinyan,126,5,Bennett,126,5,Summit Shaper,Y,N,"14,333,266",22,"651,512.09"
+3.0,The Morn a Thousand Roses Brings,8/23/2022,9/9/2022,Tighnari,0,0,Hunter's Path,Zhongli,189,3,Collei,0,0,Diona,168,6,Fischl,168,5,Vortex Vanquisher,Y,Y,"19,068,372",18,"1,059,354.00"
+3.0,The Morn a Thousand Roses Brings,9/9/2022,9/27/2022,Ganyu,206,2,Amos' Bow,Sangonomiya Kokomi,164,2,Dori,0,0,Xingqui,206,6,Sucrose,143,6,Everlasting Moonlight,Y,Y,"15,681,840",19,"825,360.00"
+3.1,King Deshret and the Three Magi,9/27/2022,10/14/2022,Cyno,0,0,Staff of the Scarlet Sands,Venti,161,3,Candace,0,0,Kuki Shinobu,77,1,Sayu,119,3,Elergy for the End,Y,Y,"19,052,023",18,"1,058,445.72"
+3.1,King Deshret and the Three Magi,10/14/2022,11/1/2022,Nilou,0,0,Key of Khaj-Nisut,Albedo,304,2,Barbara,115,6,Xiangling,178,6,Beidou,241,5,Primordial Jade Cutter,Y,Y,"15,731,680.00",19,"827,983.16"
+3.2,"Akasha Pulses, the Kalpa Flame Rises",11/1/2022,11/15/2022,Nahida,0,0,A Thousand Floating Dreams,Yoimiya,70,2,Bennett,70,6,Razor,154,4,Noelle,133,6,Thundering Pulse,Y,Y,"34,017,290.00",15,"2,140,129.53"
+3.2,"Akasha Pulses, the Kalpa Flame Rises",11/15/2022,12/6/2022,Yae Miko,252,1,Kagura's Verity,Tartaglia,378,3,Layla,0,0,Thoma,105,3,Heizou,105,1,Polar Star,Y,Y,"18,437,409.00",21,877971.8571
+3.3,"All Senses Clear, All Existence Void",12/7/2022,12/27/2022,Wanderer,0,0,Tulaytullah's Remembrance,Arataki Itto,148,2,Faruzan,0,0,Gorou,148,2,Yanfei,169,5,Redhorn Stonethresher's,Y,Y,"27,126,505.00",20,1356325.25
+3.3,"All Senses Clear, All Existence Void",12/27/2022,1/17/2023,Raiden Shogun,273,1,Engulfing Lightning,Kamisato Ayato,252,1,Kujuo Sara,273,2,Sayu,74,4,Rosaria,210,5,Haran Geppaku Futsu,Y,Y,"37,919,130.00",21,1805672.857
+3.4,The Exquisite Night Chimes,1/18/2023,2/7/2023,Alhaitham,0,0,Light of Foliar Incision,Xiao,211,3,Yao Yao,0,0,Yun Jin,148,3,Xinyan,148,6,Primordial Jade Winged-Spear,Y,Y,"18,361,860.00",20,918093
+3.4,The Exquisite Night Chimes,2/7/2023,2/28/2023,Hu Tao,441,2,Staff of Homa,Yelan,231,1,Beidou,98,6,Ninguang,189,6,Xingqui,133,7,Aqua Simulacra,Y,Y,"46,556,153.00",21,2216959.667
+3.5,Windblume's Breath,3/1/2023,3/21/2023,Dehya,0,0,Beacon of the Reed Sea,Cyno,138,1,Bennett,106,7,Collei,173,1,Barbara,120,7,Staff of the Scarlet Sands,Y,Y,"13,198,046.00",20,659902.3
+3.5,Windblume's Breath,3/21/2023,4/11/2023,Kamisato Ayaka,294,2,Mistsplitter Reforged,Shenhe,420,1,Mika,0,0,Sucrose,175,7,Diona,193,7,Calamity Queller,Y,Y,"35,962,024.00",21,1712477.333
+3.6,A Parade of Providence,4/12/2023,5/2/2023,Nahida,148,1,A Thousand Floating Dreams,Nilou,162,1,Kuki Shinobu,180,2,Dori,197,1,Layla,127,1,Key of Khaj-Nisut,Y,Y,"28,019,235.00",20,1400961.75
+3.6,A Parade of Providence,5/2/2023,5/23/2023,Baizhu,0,0,Jadefall's Splendor,Ganyu,217,3,Kaveh,0,0,Candace,200,1,Fischl,235,6,Amos' Bow,Y,Y,"9,108,580.00",21,433741.9048
+3.7,Duell The Summoners' Summitl,5/24/2023,6/13/2023,Yoimiya,190,3,Thundering Pulse,Yae Miko,169,2,Kirara,0,0,Yun Jin,106,4,Chongyun,316,6,Kagura's Verity,Y,Y,"9,154,188.00",20,457709.4
+3.7,Duell The Summoners' Summitl,6/13/2023,7/5/2023,Kaedehara Kazuha,315,2,Freedom Sworn,Alhaitham,126,1,Yao Yao,126,1,Heizou,189,2,Xiangling,224,7,Light of Foliar Incision,Y,Y,"17,459,928.00",22,793633.0909
+3.8,Secret Summer Paradise,7/5/2023,7/25/2023,Eula,568,2,Song of Broken Pipes,Klee,337,3,Mika,85,1,Thoma,211,4,Razor,232,5,Lost Prayer to the Sacred Winds,Y,Y,"6,458,188.00",20,322909.4
+3.8,Secret Summer Paradise,7/25/2023,8/15/2023,Sangonomiya Kokomi,301,3,Everlasting Moonglow,Wanderer,210,1,Faruzan,0,1,Rosaria,189,6,Yanfei,210,6,Tulaytullah's Remembrance,Y,Y,"9,129,631.00",21,434744.3333
+4.0,As Light Rain Falls Without Reason,8/16/2023,9/5/2023,Lyney,0,0,The First Great Magic,Yelan,169,2,Lynette,0,0,Bennett,148,8,Barbara,148,8,Aqua Simulacra,Y,Y,"11,473,539.00",20,573676.95
+4.0,As Light Rain Falls Without Reason,9/5/2023,9/26/2023,Tartaglia,273,4,Polar Star,Zhongli,361,4,Freminet,0,0,Noelle,294,7,Sayu,231,5,Vortex Vanquisher,Y,Y,"9,039,617.00",21,430457.9524
+4.1,To the Stars Shining in the Depths,9/27/2023,10/17/2023,Neuvillette,0,0,Tome of Eternal Flow,Hu Tao,211,3,Xingqui,211,8,Fischl,127,7,Diona,169,8,Staff of Homa,Y,Y,"13,832,472.00",20,691623.6
+4.1,To the Stars Shining in the Depths,10/17/2023,11/8/2023,Wriothesley,0,0,Cashflow Supervision,Venti,368,4,Thoma,84,5,Chongyun,126,7,Dori,168,2,Elegy for the End,Y,Y,"11,730,045.00",22,533183.8636
+4.2,Masquerade of the Guilty,11/8/2023,11/29/2023,Furina,0,0,Splendor of Tranquil Waters,Baizhu,169,1,Charlotte,0,0,Beidou,253,7,Collei,232,2,Jadefall's Splendor,Y,Y,"27,811,922.00",21,1324377.238
