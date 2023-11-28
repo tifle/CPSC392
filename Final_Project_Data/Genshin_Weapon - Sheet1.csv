@@ -1,0 +1,167 @@
+weapon_name,rarity,weapon_type,obtain_method,explore,limited,base_atk,secondary_stat,percentage_stat,maxed_secondary_stat
+A Thousand Floating Dreams,5,catalyst,gatcha,0,1,542,ELEMENTAL_MASTERY,0,265
+Akuoumaru,4,claymore,gatcha,0,0,510,ATK,1,41.3
+Alley Hunter,4,bow,gatcha,0,0,565,CRIT_RATE,0,27.6
+Amenoma Kageuchi,4,sword,crafting,0,0,454,ATK,1,55.1
+Amos' Bow,5,bow,gatcha,0,0,608,ATK,1,49.6
+Aqua Simulacra,5,bow,gatcha,0,1,542,CRIT_DMG,0,88.2
+Aquila Favonia,5,sword,gatcha,0,0,674,PHYSICAL_DMG_BONUS,0,41.3
+Ballad of the Boundless Blue,4,catalyst,event,0,1,565,ENERGY_RECHARGE,0,30.6
+Ballad of the Fjords,4,polearm,bp_bounty,0,0,510,CRIT_RATE,0,27.6
+Beacon of the Reed Sea,5,claymore,gatcha,0,1,609,CRIT_RATE,0,33.1
+Black Tassel,3,polearm,gatcha,1,0,354,HP,1,49.6
+Blackcliff Agate,4,catalyst,starglitter_exchange,0,1,510,CRIT_DMG,0,55.1
+Blackcliff Longsword,4,sword,starglitter_exchange,0,1,565,CRIT_DMG,0,36.8
+Blackcliff Pole,4,polearm,starglitter_exchange,0,1,510,CRIT_DMG,0,55.1
+Blackcliff Slasher,4,claymore,starglitter_exchange,0,1,510,CRIT_DMG,0,55.1
+Blackcliff Warbow,4,bow,starglitter_exchange,0,1,565,CRIT_DMG,0,36.8
+Bloodtainted Greatsword,3,claymore,gatcha,1,0,354,ELEMENTAL_MASTERY,0,187
+Calamity Queller,5,polearm,gatcha,0,1,741,ATK,1,16.5
+Cashflow Supervision,5,catalyst,gatcha,0,1,674,CRIT_RATE,0,22.1
+Cinnabar Spindle,4,sword,gatcha,0,1,454,DEF,1,69
+Compound Bow,4,bow,crafting,0,0,454,PHYSICAL_DMG_BONUS,0,69
+Cool Steel,3,sword,gatcha,1,0,401,ATK,1,35.2
+Crescent Pike,4,polearm,crafting,0,0,565,PHYSICAL_DMG_BONUS,0,34.5
+Dark Iron Sword,3,sword,vendor,0,0,401,ELEMENTAL_MASTERY,0,141
+Deathmatch,4,polearm,bp_bounty,0,0,454,CRIT_RATE,0,36.8
+Debate Club,3,claymore,gatcha,1,0,401,ATK,1,35.2
+Dodoco Tales,4,catalyst,event,0,1,454,ATK,1,55.1
+Dragon's Bane,4,polearm,gatcha,0,0,454,ELEMENTAL_MASTERY,0,221
+Dragonspine Spear,4,polearm,crafting,0,0,454,PHYSICAL_DMG_BONUS,0,69
+Elergy for the End,5,bow,gatcha,0,1,608,ENERGY_RECHARGE,0,55.1
+Emerald Orb,3,catalyst,gatcha,1,0,448,ELEMENTAL_MASTERY,0,94
+End of the Line,4,bow,fishing,0,0,510,ENERGY_RECHARGE,0,45.9
+Engulfing Lightning,5,polearm,gatcha,0,1,608,ENERGY_RECHARGE,0,55.1
+Everlasting Moonglow,5,catalyst,gatcha,0,1,608,HP,1,49.6
+Eye of Perception,4,catalyst,gatcha,0,1,454,ATK,1,55.1
+Fading Twilight,4,bow,event,0,1,565,ENERGY_RECHARGE,0,30.6
+Favonius Codex,4,catalyst,gatcha,0,0,510,ENERGY_RECHARGE,0,45.9
+Favonius Greatsword,4,claymore,gatcha,0,0,454,ENERGY_RECHARGE,0,61.3
+Favonius Lance,4,polearm,gatcha,0,0,565,ENERGY_RECHARGE,0,30.6
+Favonius Sword,4,sword,gatcha,0,0,454,ENERGY_RECHARGE,0,61.3
+Favonius Warbow,4,bow,gatcha,0,0,454,ENERGY_RECHARGE,0,61.3
+Ferrous Shadow,3,claymore,gatcha,1,0,401,HP,1,35.2
+Festing Desire,4,sword,event,0,1,510,ENERGY_RECHARGE,0,45.9
+Fillet Blade,3,sword,event,1,0,401,ATK,1,32.5
+Finale of the Deep,4,sword,crafting,0,0,565,ATK,1,27.6
+Fleuve Cendre Ferryman,4,sword,fishing,0,0,510,ENERGY_RECHARGE,0,45.39
+Flowing Purity,4,catalyst,crafting,0,0,565,ATK,1,27.6
+Forest Regalia,4,claymore,crafting,0,0,565,ENERGY_RECHARGE,0,30.6
+Freedom Sworn,5,sword,gatcha,0,1,608,ELEMENTAL_MASTERY,0,198
+Frostbearer,4,catalyst,crafting,0,0,510,ATK,1,41.3
+Fruit of Fulfillment,4,catalyst,crafting,0,0,510,ENERGY_RECHARGE,0,45.9
+Hakushin Ring,4,catalyst,event,0,1,565,ENERGY_RECHARGE,0,30.6
+Halberd,3,polearm,gatcha,1,0,448,ATK,1,23.5
+Hamayumi,4,bow,crafting,0,0,454,ATK,1,55.1
+Haran Geppaku Futsu,5,sword,gatcha,0,1,608,CRIT_RATE,0,33.1
+Harbinger of Dawn,3,sword,gatcha,1,0,401,CRIT_DMG,0,46.9
+Hunter's Path,5,bow,gatcha,0,1,542,CRIT_RATE,0,44.1
+Iron Sting,4,sword,crafting,0,0,510,ELEMENTAL_MASTERY,0,165
+Ibis Piercer,4,bow,event,0,1,565,ATK,1,27.6
+Jadefall's Splendor,5,catalyst,gatcha,0,1,608,HP,1,49.6
+Kagotsurube Isshin,4,sword,event,0,0,510,ATK,1,41.3
+Kagura's Verity,5,catalyst,gatcha,0,1,608,CRIT_DMG,0,66.2
+Katsuragikiri Nagamasa,4,claymore,crafting,0,0,510,ENERGY_RECHARGE,0,45.9
+Key of Khaj-Nisut,5,sword,gatcha,0,1,542,HP,1,66.2
+King's Squire,4,bow,crafting,0,0,454,ATK,1,55.1
+Kitain Cross Spear,4,polearm,crafting,0,0,565,ELEMENTAL_MASTERY,0,110
+Light of Foliar Incision,5,sword,gatcha,0,1,542,CRIT_DMG,0,88.2
+Lion's Roar,4,sword,gatcha,0,0,510,ATK,1,41.3
+Lithic Blade,4,claymore,gatcha,0,0,510,ATK,1,41.3
+Lithic Spear,4,polearm,gatcha,0,0,565,ATK,1,27.6
+Lost Prayer to the Sacred Winds,5,catalyst,gatcha,0,0,608,CRIT_RATE,0,33.1
+Luxurious Sea-Lord,4,claymore,event,0,1,454,ATK,1,55.1
+Magic Guide,3,catalyst,gatcha,1,0,354,ELEMENTAL_MASTERY,0,187
+Mailed Flower,4,claymore,event,0,1,565,ELEMENTAL_MASTERY,0,110
+Makhaira Aquamarine,4,claymore,gatcha,0,1,510,ELEMENTAL_MASTERY,0,165
+Mappa Mare,4,catalyst,crafting,0,0,565,ELEMENTAL_MASTERY,0,110
+Memory of Dust,5,catalyst,gatcha,0,1,608,ATK,1,49.6
+Messenger,3,bow,gatcha,1,0,448,CRIT_DMG,0,31.2
+Missive Windspear,4,polearm,event,0,1,510,ATK,1,41.3
+Mistplitter Reforged,5,sword,gatcha,0,1,674,CRIT_DMG,0,44.1
+Mitternachts Waltz,4,bow,gatcha,0,0,510,PHYSICAL_DMG_BONUS,0,51.7
+Moonpiercer,4,polearm,crafting,0,0,565,ELEMENTAL_MASTERY,0,110
+Mounn's Moon,4,bow,gatcha,0,0,565,ATK,1,27.6
+Oatsworn Eye,4,catalyst,event,0,1,565,ATK,1,27.6
+Otherworldly Story,3,catalyst,gatcha,1,0,401,ENERGY_RECHARGE,0,39
+Polar Star,5,bow,gatcha,0,1,608,CRIT_RATE,0,33.1
+Portable Power Saw,4,claymore,gatcha,0,1,454,HP,1,55.1
+Predator,4,bow,event,0,1,510,ATK,1,41.3
+Primordial Jade Cutter,5,sword,gatcha,0,1,542,CRIT_RATE,0,44.1
+Primordial Jade Winged-Spear,5,polearm,gatcha,0,0,674,CRIT_RATE,0,22.1
+Prospector's Drill,4,polearm,gatcha,0,0,565,ATK,1,27.6
+Prototype Amber,4,catalyst,crafting,0,0,510,HP,1,41.3
+Prototype Archaic,4,claymore,crafting,0,0,565,ATK,1,27.6
+Prototype Crescent,4,bow,crafting,0,0,510,ATK,1,41.3
+Prototype Rancour,4,sword,crafting,0,0,565,PHYSICAL_DMG_BONUS,0,34.5
+Prototype Starglitter,4,polearm,crafting,0,0,510,ENERGY_RECHARGE,0,45.9
+Rainslasher,4,claymore,gatcha,0,0,510,ELEMENTAL_MASTERY,0,165
+Range Gauge,4,bow,gatcha,0,0,565,ATK,1,27.6
+Raven Bow,3,bow,gatcha,1,0,448,ELEMENTAL_MASTERY,0,94
+Recurve Bow,3,bow,gatcha,1,0,354,HP,1,46.9
+Redhorn Stonethresher,5,claymore,gatcha,0,1,542,CRIT_DMG,0,88.2
+Rightful Reward,4,polearm,crafting,0,0,565,HP,1,27.6
+Royal Bow,4,bow,starglitter_exchange,0,1,510,ATK,1,41.3
+Royal Greatsword,4,claymore,starglitter_exchange,0,1,565,ATK,1,27.6
+Royal Grimoire,4,catalyst,starglitter_exchange,0,1,565,ATK,1,27.6
+Royal Longsword,4,sword,starglitter_exchange,0,1,510,ATK,1,41.3
+Royal Spear,4,polearm,starglitter_exchange,0,1,565,ATK,1,27.6
+Rust,4,bow,gatcha,0,0,510,ATK,1,41.3
+Sacrificial Bow,4,bow,gatcha,0,0,565,ENERGY_RECHARGE,0,30.6
+Sacrificial Fragments,4,catalyst,gatcha,0,0,454,ELEMENTAL_MASTERY,0,221
+Sacrificial Greatsword,4,claymore,gatcha,0,0,565,ENERGY_RECHARGE,0,30.6
+Sacrificial Jade,4,catalyst,bp_bounty,0,0,454,CRIT_RATE,0,36.8
+Sacrificial Sword,4,sword,gatcha,0,0,454,ENERGY_RECHARGE,0,61.3
+Sapwood Blade,4,sword,crafting,0,0,565,ENERGY_RECHARGE,0,30.6
+Scion of the Blazing Sun,4,bow,bp_bounty,0,0,565,CRIT_RATE,0,18.4
+Serpent Spine,4,claymore,bp_bounty,0,0,510,CRIT_RATE,0,27.6
+Sharpshooter's Oath,3,bow,gatcha,1,0,401,CRIT_DMG,0,46.9
+Skyrider Greatsword,3,claymore,gatcha,1,0,401,PHYSICAL_DMG_BONUS,0,43.9
+Skyrider Sword,3,sword,gatcha,1,0,354,ENERGY_RECHARGE,0,52.1
+Skyward Atlas,5,catalyst,gatcha,0,0,674,ATK,1,33.1
+Skyward Blade,5,sword,gatcha,0,0,608,ENERGY_RECHARGE,0,55.1
+Skyward Harp,5,bow,gatcha,0,0,674,CRIT_RATE,0,22.1
+Skyward Pride,5,claymore,gatcha,0,0,674,ENERGY_RECHARGE,0,36.8
+Skyward Spine,5,polearm,gatcha,0,0,674,ENERGY_RECHARGE,0,36.8
+Slingshot,3,bow,gatcha,1,0,354,CRIT_RATE,0,31.2
+Snow-Tombed Starsilver,4,claymore,crafting,1,0,565,PHYSICAL_DMG_BONUS,0,34.5
+Solar Pearl,4,catalyst,bp_bounty,0,0,510,CRIT_RATE,0,27.6
+Song of Broken Pipes,5,claymore,gatcha,0,1,741,PHYSICAL_DMG_BONUS,0,20.7
+Song of Stillness,4,bow,crafting,0,0,510,ATK,1,41.3
+Splendor of Tranquil Waters,5,sword,gatcha,0,1,542,CRIT_DMG,0,88.2
+Staff of Homa,5,polearm,gatcha,0,1,608,CRIT_DMG,0,66.2
+Staff of Scarlet Sands,5,polearm,gatcha,0,1,542,CRIT_RATE,0,44.1
+Summit Shaper,5,sword,gatcha,0,1,608,ATK,1,49.6
+Sword of Descension,4,sword,gatcha,0,0,440,ATK,1,35.2
+Sword of Narzissenkreuz,4,sword,event,1,0,510,ATK,1,55
+Talking Stick,4,claymore,bp_bounty,0,0,565,CRIT_RATE,0,18.4
+The Alley Flash,4,sword,gatcha,0,0,620,ELEMENTAL_MASTERY,,55
+The Bell,4,claymore,gatcha,0,0,510,HP,1,41.3
+The Black Sword,4,sword,bp_bounty,0,0,510,CRIT_RATE,0,27.6
+The Catch,4,polearm,fishing,0,0,510,ENERGY_RECHARGE,0,45.9
+The Dockhand's Assistant,4,sword,gatcha,0,0,510,HP,1,41.3
+The First Great Magic,5,bow,gatcha,0,1,608,CRIT_DMG,0,66.2
+The Flute,4,sword,gatcha,0,0,510,ATK,1,41.3
+The Stringless,4,bow,gatcha,0,0,510,ELEMENTAL_MASTERY,0,165
+The Unforged,5,claymore,gatcha,0,1,608,ATK,1,49.6
+The Viridescent Hunt,4,bow,bp_bounty,0,0,510,CRIT_RATE,0,27.6
+The Widsith,4,catalyst,gatcha,0,0,510,CRIT_DMG,0,55.1
+Thrilling Tales of Dragon Slayers,3,catalyst,gatcha,1,0,401,HP,1,35.2
+Thundering Pulse,5,bow,gatcha,0,1,608,CRIT_DMG,0,66.2
+Tidal Shadow,4,claymore,crafting,0,0,510,ATK,1,41.3
+Tome of Eternal Flow,5,catalyst,gatcha,0,1,542,CRIT_DMG,0,88.2
+Toukabou Shigure,4,sword,event,0,1,510,ELEMENTAL_MASTERY,0,165
+Traveler's Handy Sword,3,sword,gatcha,1,0,448,DEF,1,29.3
+Tulaytullah's Remembrance,5,catalyst,gatcha,0,1,674,CRIT_DMG,0,44.1
+Twin Nephrite,3,catalyst,gatcha,1,0,448,CRIT_RATE,0,15.6
+Vortex Vanquisher,5,polearm,gatcha,0,1,608,ATK,1,49.6
+Wandering Evenstar,4,catalyst,gatcha,0,0,510,ELEMENTAL_MASTERY,0,165
+Wavebreaker's Fin,4,polearm,gatcha,0,0,620,ATK,1,13.8
+White Iron Greatsword,3,claymore,gatcha,1,0,401,DEF,0,43.9
+White Tassel,3,polearm,gatcha,1,0,401,CRIT_RATE,0,23.4
+Whiteblind,4,claymore,crafting,0,0,510,DEF,1,51.7
+Windblume Ode,4,bow,event,0,1,510,ELEMENTAL_MASTERY,0,165
+Wine and Song,4,catalyst,gatcha,0,0,565,ENERGY_RECHARGE,0,30.6
+Wolf-Fang,4,sword,bp_bounty,0,0,510,CRIT_RATE,0,27.6
+Wolf's Gravestone,5,claymore,gatcha,0,0,608,ATK,1,49.6
+Xiphos's Moonlight,4,sword,gatcha,0,0,510,ELEMENTAL_MASTERY,0,165
